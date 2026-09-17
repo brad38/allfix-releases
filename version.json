@@ -1,8 +1,10 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/brad38/allfix-releases/releases/latest/download/AllFix.exe",
-  "sha256": "91106E1EE2E93FA7BB772C4EEB977E24072EBE19F76B175D8570DEC5D4568D38",
+  "version": "1.0.1",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/v1.0.1/AllFix-v1.0.1.exe",
+  "sha256": "A278E597D649D04186FBCC8C128A8D703A4D800BFFF36760DF11923283E6FD7E",
   "notes": [
-    "Primeira versão pública do AllFix."
+    "Sistema de atualização automática do AllFix.",
+    "Validação SHA-256 antes da instalação.",
+    "Correções de segurança no fluxo de atualização."
   ]
 }
