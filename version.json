@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/brad38/allfix-releases/releases/download/v1.1.0/AllFix-v1.1.0.exe",
-  "sha256": "7DC872C902991A3700F2EC6F4179D42C9260CB38EDBAACCC8BDAA9D832ADC007",
+  "version": "1.1.1",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/v1.1.1/AllFix-v1.1.1.exe",
+  "sha256": "8F159A76F38CB49BEF1A47B14B151E3FE6D7F034AED1CAE1759625F048D60597",
   "notes": [
-    "Busca online integrada ao Online-Fix com capas e informações dos jogos.",
-    "Favoritos locais e filtros por tipo de jogo.",
-    "Paginação real dos resultados do Online-Fix.",
-    "Cards com tamanho estável ao alternar entre Todos e Favoritos."
+    "Correção da identificação de jogos com nomes pontuados, incluindo S.O.N.A.R.",
+    "Consultas ao catálogo reaproveitadas para evitar bloqueios por excesso de buscas.",
+    "Falhas temporárias de consulta não são tratadas como jogos indisponíveis.",
+    "Automação de instalação abre diretamente a página já encontrada no Online-Fix."
   ]
 }
