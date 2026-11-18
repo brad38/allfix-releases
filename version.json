@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/brad38/allfix-releases/releases/download/v1.1.2/AllFix-v1.1.2.exe",
-  "sha256": "5CCA734F633B9522DE29F32BC762A432223BF75AC34FFE5D69EDA23BF8FD2807",
+  "version": "2.0.0",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/V2.0.0/AllFix-v2.0.0.exe",
+  "sha256": "89FE3F57C507045121FC0F73EC128B1ABB38CA1842A0481C6A1801D648E47E30",
   "notes": [
-    "Capas dos jogos carregadas a partir do cache local da Steam, incluindo S.O.N.A.R. e Finals Week.",
-    "Correção de associações incorretas entre jogos da Steam e fixes do Online-Fix.",
-    "Instalação liberada somente para jogos com fix confirmado.",
-    "Remoção de utilitários da lista de jogos e melhorias na verificação de disponibilidade."
+    "Nova versão principal do AllFix com reorganização da interface e das funcionalidades.",
+    "Melhorias na biblioteca de jogos, nos fluxos de automação e na instalação manual.",
+    "Ajustes na consulta e identificação de jogos no catálogo Online-Fix.",
+    "Correções e aprimoramentos gerais de estabilidade e compatibilidade."
   ]
 }
