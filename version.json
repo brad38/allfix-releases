@@ -1,10 +1,11 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/brad38/allfix-releases/releases/download/v2.0.1/AllFix-v2.0.1.exe",
-  "sha256": "770CA18310B0AEB0A2DAD3EEBAC970E634E1A15E97AB17AFDA0FAAB116DE893E",
+  "version": "2.5.0",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/v2.5.0/AllFix-v2.5.0.exe",
+  "sha256": "D8D530FC64CFE090AD091FD55E9FA279A662FD93D3F75E2F3D5FB76A724598FB",
   "notes": [
-    "Melhoria no fluxo de instalação de fixes a partir do catálogo online.",
-    "Exibição de aviso com opção para abrir o Online-Fix quando o jogo não for encontrado instalado no PC.",
-    "Validação do jogo e mensagens de erro mais claras durante solicitações de instalação pelo catálogo."
+    "Integração inicial do método alternativo AllFix para multiplayer via LAN/P2P, em fase experimental.",
+    "Seleção de métodos de fix entre Online-Fix e AllFix conforme a disponibilidade de cada jogo.",
+    "Melhorias na interface dos métodos de fix, com animações e indicação de opções indisponíveis.",
+    "Ajustes internos e preparação para ampliar a compatibilidade com outros jogos."
   ]
 }
