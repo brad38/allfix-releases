@@ -1,11 +1,10 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/brad38/allfix-releases/releases/download/v2.5.0/AllFix-v2.5.0.exe",
-  "sha256": "D8D530FC64CFE090AD091FD55E9FA279A662FD93D3F75E2F3D5FB76A724598FB",
+  "version": "2.5.1",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/v2.5.1/AllFix.exe",
+  "sha256": "F806956DAF4E7331E1B9FC7E4691D4F9FBDA86C16764EC7FB7FE1EE6DCBDA467",
   "notes": [
-    "Integração inicial do método alternativo AllFix para multiplayer via LAN/P2P, em fase experimental.",
-    "Seleção de métodos de fix entre Online-Fix e AllFix conforme a disponibilidade de cada jogo.",
-    "Melhorias na interface dos métodos de fix, com animações e indicação de opções indisponíveis.",
-    "Ajustes internos e preparação para ampliar a compatibilidade com outros jogos."
+    "Correção do conflito entre o AppID do jogo e o AppID da integração Steam no método AllFix.",
+    "Ajustes na inicialização do bridge Steam e na criação de salas multiplayer.",
+    "Integração multiplayer AllFix ainda em fase experimental; partidas reais entre computadores diferentes precisam de validação."
   ]
 }
