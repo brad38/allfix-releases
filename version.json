@@ -1,10 +1,8 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/brad38/allfix-releases/releases/download/v2.5.1/AllFix.exe",
-  "sha256": "F806956DAF4E7331E1B9FC7E4691D4F9FBDA86C16764EC7FB7FE1EE6DCBDA467",
+  "version": "3.0.0",
+  "url": "https://github.com/brad38/allfix-releases/releases/download/v3.0.0/AllFix.exe",
+  "sha256": "",
   "notes": [
-    "Correção do conflito entre o AppID do jogo e o AppID da integração Steam no método AllFix.",
-    "Ajustes na inicialização do bridge Steam e na criação de salas multiplayer.",
-    "Integração multiplayer AllFix ainda em fase experimental; partidas reais entre computadores diferentes precisam de validação."
+    "AllFix v3.0.0."
   ]
 }
